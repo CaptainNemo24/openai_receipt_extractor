@@ -1,0 +1,1455 @@
+{
+    "version": "V2",
+    "requestId": "2c5d7e4d-26d3-4271-97b0-075edbf84049",
+    "timestamp": 1752308802485,
+    "images": [
+        {
+            "uid": "e7e40cd161d1415aa45e79aecaa4cb0f",
+            "name": "demo",
+            "inferResult": "SUCCESS",
+            "message": "SUCCESS",
+            "validationResult": {
+                "result": "NO_REQUESTED"
+            },
+            "convertedImageInfo": {
+                "width": 3000,
+                "height": 4000,
+                "pageIndex": 0,
+                "longImage": false
+            },
+            "fields": [
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 954.0,
+                                "y": 264.0
+                            },
+                            {
+                                "x": 1614.0,
+                                "y": 264.0
+                            },
+                            {
+                                "x": 1614.0,
+                                "y": 586.0
+                            },
+                            {
+                                "x": 954.0,
+                                "y": 586.0
+                            }
+                        ]
+                    },
+                    "inferText": "[영수증]",
+                    "inferConfidence": 0.9998,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 175.0,
+                                "y": 613.0
+                            },
+                            {
+                                "x": 703.0,
+                                "y": 675.0
+                            },
+                            {
+                                "x": 682.0,
+                                "y": 853.0
+                            },
+                            {
+                                "x": 154.0,
+                                "y": 791.0
+                            }
+                        ]
+                    },
+                    "inferText": "[매장명]",
+                    "inferConfidence": 0.9992,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 737.0,
+                                "y": 680.0
+                            },
+                            {
+                                "x": 1235.0,
+                                "y": 690.0
+                            },
+                            {
+                                "x": 1231.0,
+                                "y": 861.0
+                            },
+                            {
+                                "x": 733.0,
+                                "y": 851.0
+                            }
+                        ]
+                    },
+                    "inferText": "맑은농장",
+                    "inferConfidence": 0.9996,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 168.0,
+                                "y": 770.0
+                            },
+                            {
+                                "x": 693.0,
+                                "y": 821.0
+                            },
+                            {
+                                "x": 677.0,
+                                "y": 992.0
+                            },
+                            {
+                                "x": 151.0,
+                                "y": 942.0
+                            }
+                        ]
+                    },
+                    "inferText": "[사업자]",
+                    "inferConfidence": 1.0,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 739.0,
+                                "y": 831.0
+                            },
+                            {
+                                "x": 1479.0,
+                                "y": 836.0
+                            },
+                            {
+                                "x": 1478.0,
+                                "y": 974.0
+                            },
+                            {
+                                "x": 739.0,
+                                "y": 970.0
+                            }
+                        ]
+                    },
+                    "inferText": "",
+                    "inferConfidence": 0.9998,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 161.0,
+                                "y": 932.0
+                            },
+                            {
+                                "x": 382.0,
+                                "y": 932.0
+                            },
+                            {
+                                "x": 382.0,
+                                "y": 1100.0
+                            },
+                            {
+                                "x": 161.0,
+                                "y": 1100.0
+                            }
+                        ]
+                    },
+                    "inferText": "[주",
+                    "inferConfidence": 0.979,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 471.0,
+                                "y": 968.0
+                            },
+                            {
+                                "x": 682.0,
+                                "y": 968.0
+                            },
+                            {
+                                "x": 682.0,
+                                "y": 1111.0
+                            },
+                            {
+                                "x": 471.0,
+                                "y": 1111.0
+                            }
+                        ]
+                    },
+                    "inferText": "소]",
+                    "inferConfidence": 1.0,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 721.0,
+                                "y": 964.0
+                            },
+                            {
+                                "x": 979.0,
+                                "y": 964.0
+                            },
+                            {
+                                "x": 979.0,
+                                "y": 1136.0
+                            },
+                            {
+                                "x": 721.0,
+                                "y": 1136.0
+                            }
+                        ]
+                    },
+                    "inferText": "",
+                    "inferConfidence": 0.9999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1018.0,
+                                "y": 971.0
+                            },
+                            {
+                                "x": 1286.0,
+                                "y": 971.0
+                            },
+                            {
+                                "x": 1286.0,
+                                "y": 1139.0
+                            },
+                            {
+                                "x": 1018.0,
+                                "y": 1139.0
+                            }
+                        ]
+                    },
+                    "inferText": "",
+                    "inferConfidence": 1.0,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1325.0,
+                                "y": 968.0
+                            },
+                            {
+                                "x": 1825.0,
+                                "y": 968.0
+                            },
+                            {
+                                "x": 1825.0,
+                                "y": 1136.0
+                            },
+                            {
+                                "x": 1325.0,
+                                "y": 1136.0
+                            }
+                        ]
+                    },
+                    "inferText": "",
+                    "inferConfidence": 0.999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1871.0,
+                                "y": 975.0
+                            },
+                            {
+                                "x": 2021.0,
+                                "y": 975.0
+                            },
+                            {
+                                "x": 2021.0,
+                                "y": 1100.0
+                            },
+                            {
+                                "x": 1871.0,
+                                "y": 1100.0
+                            }
+                        ]
+                    },
+                    "inferText": "",
+                    "inferConfidence": 1.0,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 2050.0,
+                                "y": 954.0
+                            },
+                            {
+                                "x": 2557.0,
+                                "y": 954.0
+                            },
+                            {
+                                "x": 2557.0,
+                                "y": 1125.0
+                            },
+                            {
+                                "x": 2050.0,
+                                "y": 1125.0
+                            }
+                        ]
+                    },
+                    "inferText": "",
+                    "inferConfidence": 0.9971,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 2608.0,
+                                "y": 954.0
+                            },
+                            {
+                                "x": 3013.0,
+                                "y": 942.0
+                            },
+                            {
+                                "x": 3017.0,
+                                "y": 1078.0
+                            },
+                            {
+                                "x": 2612.0,
+                                "y": 1089.0
+                            }
+                        ]
+                    },
+                    "inferText": "",
+                    "inferConfidence": 0.9431,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 150.0,
+                                "y": 1079.0
+                            },
+                            {
+                                "x": 318.0,
+                                "y": 1079.0
+                            },
+                            {
+                                "x": 318.0,
+                                "y": 1246.0
+                            },
+                            {
+                                "x": 150.0,
+                                "y": 1246.0
+                            }
+                        ]
+                    },
+                    "inferText": "",
+                    "inferConfidence": 0.9996,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 159.0,
+                                "y": 1230.0
+                            },
+                            {
+                                "x": 687.0,
+                                "y": 1251.0
+                            },
+                            {
+                                "x": 680.0,
+                                "y": 1420.0
+                            },
+                            {
+                                "x": 152.0,
+                                "y": 1398.0
+                            }
+                        ]
+                    },
+                    "inferText": "[대표자]",
+                    "inferConfidence": 0.9999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 718.0,
+                                "y": 1250.0
+                            },
+                            {
+                                "x": 1111.0,
+                                "y": 1250.0
+                            },
+                            {
+                                "x": 1111.0,
+                                "y": 1425.0
+                            },
+                            {
+                                "x": 718.0,
+                                "y": 1425.0
+                            }
+                        ]
+                    },
+                    "inferText": "",
+                    "inferConfidence": 0.9969,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1514.0,
+                                "y": 1268.0
+                            },
+                            {
+                                "x": 1821.0,
+                                "y": 1268.0
+                            },
+                            {
+                                "x": 1821.0,
+                                "y": 1400.0
+                            },
+                            {
+                                "x": 1514.0,
+                                "y": 1400.0
+                            }
+                        ]
+                    },
+                    "inferText": "[TEL]",
+                    "inferConfidence": 0.9998,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1863.0,
+                                "y": 1261.0
+                            },
+                            {
+                                "x": 2642.0,
+                                "y": 1252.0
+                            },
+                            {
+                                "x": 2644.0,
+                                "y": 1388.0
+                            },
+                            {
+                                "x": 1865.0,
+                                "y": 1397.0
+                            }
+                        ]
+                    },
+                    "inferText": "",
+                    "inferConfidence": 0.9995,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 155.0,
+                                "y": 1378.0
+                            },
+                            {
+                                "x": 682.0,
+                                "y": 1393.0
+                            },
+                            {
+                                "x": 677.0,
+                                "y": 1566.0
+                            },
+                            {
+                                "x": 150.0,
+                                "y": 1551.0
+                            }
+                        ]
+                    },
+                    "inferText": "[매출일]",
+                    "inferConfidence": 0.9997,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 718.0,
+                                "y": 1409.0
+                            },
+                            {
+                                "x": 1355.0,
+                                "y": 1417.0
+                            },
+                            {
+                                "x": 1353.0,
+                                "y": 1549.0
+                            },
+                            {
+                                "x": 717.0,
+                                "y": 1542.0
+                            }
+                        ]
+                    },
+                    "inferText": "2025-06-14",
+                    "inferConfidence": 0.9999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1393.0,
+                                "y": 1418.0
+                            },
+                            {
+                                "x": 1575.0,
+                                "y": 1418.0
+                            },
+                            {
+                                "x": 1575.0,
+                                "y": 1543.0
+                            },
+                            {
+                                "x": 1393.0,
+                                "y": 1543.0
+                            }
+                        ]
+                    },
+                    "inferText": "19:",
+                    "inferConfidence": 0.9999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1564.0,
+                                "y": 1414.0
+                            },
+                            {
+                                "x": 1757.0,
+                                "y": 1414.0
+                            },
+                            {
+                                "x": 1757.0,
+                                "y": 1539.0
+                            },
+                            {
+                                "x": 1564.0,
+                                "y": 1539.0
+                            }
+                        ]
+                    },
+                    "inferText": "55:",
+                    "inferConfidence": 0.9999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1743.0,
+                                "y": 1407.0
+                            },
+                            {
+                                "x": 1904.0,
+                                "y": 1407.0
+                            },
+                            {
+                                "x": 1904.0,
+                                "y": 1546.0
+                            },
+                            {
+                                "x": 1743.0,
+                                "y": 1546.0
+                            }
+                        ]
+                    },
+                    "inferText": "28",
+                    "inferConfidence": 1.0,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 151.0,
+                                "y": 1531.0
+                            },
+                            {
+                                "x": 685.0,
+                                "y": 1546.0
+                            },
+                            {
+                                "x": 681.0,
+                                "y": 1719.0
+                            },
+                            {
+                                "x": 146.0,
+                                "y": 1705.0
+                            }
+                        ]
+                    },
+                    "inferText": "[영수증]",
+                    "inferConfidence": 0.9999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 718.0,
+                                "y": 1557.0
+                            },
+                            {
+                                "x": 1714.0,
+                                "y": 1557.0
+                            },
+                            {
+                                "x": 1714.0,
+                                "y": 1689.0
+                            },
+                            {
+                                "x": 718.0,
+                                "y": 1689.0
+                            }
+                        ]
+                    },
+                    "inferText": "20250614-01-0054",
+                    "inferConfidence": 0.9995,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 396.0,
+                                "y": 1825.0
+                            },
+                            {
+                                "x": 582.0,
+                                "y": 1825.0
+                            },
+                            {
+                                "x": 582.0,
+                                "y": 2007.0
+                            },
+                            {
+                                "x": 396.0,
+                                "y": 2007.0
+                            }
+                        ]
+                    },
+                    "inferText": "상",
+                    "inferConfidence": 0.9999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 643.0,
+                                "y": 1832.0
+                            },
+                            {
+                                "x": 811.0,
+                                "y": 1832.0
+                            },
+                            {
+                                "x": 811.0,
+                                "y": 2007.0
+                            },
+                            {
+                                "x": 643.0,
+                                "y": 2007.0
+                            }
+                        ]
+                    },
+                    "inferText": "품",
+                    "inferConfidence": 0.9998,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 893.0,
+                                "y": 1836.0
+                            },
+                            {
+                                "x": 1036.0,
+                                "y": 1836.0
+                            },
+                            {
+                                "x": 1036.0,
+                                "y": 2000.0
+                            },
+                            {
+                                "x": 893.0,
+                                "y": 2000.0
+                            }
+                        ]
+                    },
+                    "inferText": "명",
+                    "inferConfidence": 0.9999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1443.0,
+                                "y": 1829.0
+                            },
+                            {
+                                "x": 1775.0,
+                                "y": 1829.0
+                            },
+                            {
+                                "x": 1775.0,
+                                "y": 2011.0
+                            },
+                            {
+                                "x": 1443.0,
+                                "y": 2011.0
+                            }
+                        ]
+                    },
+                    "inferText": "단가",
+                    "inferConfidence": 0.9186,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1857.0,
+                                "y": 1832.0
+                            },
+                            {
+                                "x": 2143.0,
+                                "y": 1832.0
+                            },
+                            {
+                                "x": 2143.0,
+                                "y": 2011.0
+                            },
+                            {
+                                "x": 1857.0,
+                                "y": 2011.0
+                            }
+                        ]
+                    },
+                    "inferText": "수량",
+                    "inferConfidence": 0.9999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 2407.0,
+                                "y": 1825.0
+                            },
+                            {
+                                "x": 2750.0,
+                                "y": 1825.0
+                            },
+                            {
+                                "x": 2750.0,
+                                "y": 2011.0
+                            },
+                            {
+                                "x": 2407.0,
+                                "y": 2011.0
+                            }
+                        ]
+                    },
+                    "inferText": "금액",
+                    "inferConfidence": 0.9853,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 139.0,
+                                "y": 2132.0
+                            },
+                            {
+                                "x": 621.0,
+                                "y": 2132.0
+                            },
+                            {
+                                "x": 621.0,
+                                "y": 2307.0
+                            },
+                            {
+                                "x": 139.0,
+                                "y": 2307.0
+                            }
+                        ]
+                    },
+                    "inferText": "*갈비탕",
+                    "inferConfidence": 0.9999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1389.0,
+                                "y": 2139.0
+                            },
+                            {
+                                "x": 1786.0,
+                                "y": 2139.0
+                            },
+                            {
+                                "x": 1786.0,
+                                "y": 2275.0
+                            },
+                            {
+                                "x": 1389.0,
+                                "y": 2275.0
+                            }
+                        ]
+                    },
+                    "inferText": "11,000",
+                    "inferConfidence": 0.9978,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1986.0,
+                                "y": 2146.0
+                            },
+                            {
+                                "x": 2075.0,
+                                "y": 2146.0
+                            },
+                            {
+                                "x": 2075.0,
+                                "y": 2264.0
+                            },
+                            {
+                                "x": 1986.0,
+                                "y": 2264.0
+                            }
+                        ]
+                    },
+                    "inferText": "5",
+                    "inferConfidence": 0.9999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 2350.0,
+                                "y": 2142.0
+                            },
+                            {
+                                "x": 2765.0,
+                                "y": 2147.0
+                            },
+                            {
+                                "x": 2764.0,
+                                "y": 2280.0
+                            },
+                            {
+                                "x": 2349.0,
+                                "y": 2276.0
+                            }
+                        ]
+                    },
+                    "inferText": "55,000",
+                    "inferConfidence": 0.999,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 146.0,
+                                "y": 2404.0
+                            },
+                            {
+                                "x": 489.0,
+                                "y": 2404.0
+                            },
+                            {
+                                "x": 489.0,
+                                "y": 2582.0
+                            },
+                            {
+                                "x": 146.0,
+                                "y": 2582.0
+                            }
+                        ]
+                    },
+                    "inferText": "합계",
+                    "inferConfidence": 0.9941,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 586.0,
+                                "y": 2400.0
+                            },
+                            {
+                                "x": 921.0,
+                                "y": 2400.0
+                            },
+                            {
+                                "x": 921.0,
+                                "y": 2579.0
+                            },
+                            {
+                                "x": 586.0,
+                                "y": 2579.0
+                            }
+                        ]
+                    },
+                    "inferText": "금액",
+                    "inferConfidence": 0.9564,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 2350.0,
+                                "y": 2414.0
+                            },
+                            {
+                                "x": 2758.0,
+                                "y": 2418.0
+                            },
+                            {
+                                "x": 2757.0,
+                                "y": 2548.0
+                            },
+                            {
+                                "x": 2349.0,
+                                "y": 2544.0
+                            }
+                        ]
+                    },
+                    "inferText": "55,000",
+                    "inferConfidence": 0.991,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 646.0,
+                                "y": 2693.0
+                            },
+                            {
+                                "x": 1100.0,
+                                "y": 2693.0
+                            },
+                            {
+                                "x": 1100.0,
+                                "y": 2864.0
+                            },
+                            {
+                                "x": 646.0,
+                                "y": 2864.0
+                            }
+                        ]
+                    },
+                    "inferText": "*부가세",
+                    "inferConfidence": 1.0,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1141.0,
+                                "y": 2684.0
+                            },
+                            {
+                                "x": 1881.0,
+                                "y": 2673.0
+                            },
+                            {
+                                "x": 1884.0,
+                                "y": 2855.0
+                            },
+                            {
+                                "x": 1144.0,
+                                "y": 2866.0
+                            }
+                        ]
+                    },
+                    "inferText": "면세물품가액",
+                    "inferConfidence": 0.9988,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 2343.0,
+                                "y": 2696.0
+                            },
+                            {
+                                "x": 2748.0,
+                                "y": 2700.0
+                            },
+                            {
+                                "x": 2746.0,
+                                "y": 2837.0
+                            },
+                            {
+                                "x": 2341.0,
+                                "y": 2833.0
+                            }
+                        ]
+                    },
+                    "inferText": "55,000",
+                    "inferConfidence": 0.9909,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 705.0,
+                                "y": 2847.0
+                            },
+                            {
+                                "x": 1096.0,
+                                "y": 2841.0
+                            },
+                            {
+                                "x": 1098.0,
+                                "y": 3015.0
+                            },
+                            {
+                                "x": 708.0,
+                                "y": 3021.0
+                            }
+                        ]
+                    },
+                    "inferText": "부가세",
+                    "inferConfidence": 0.9999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1138.0,
+                                "y": 2835.0
+                            },
+                            {
+                                "x": 1878.0,
+                                "y": 2827.0
+                            },
+                            {
+                                "x": 1880.0,
+                                "y": 3007.0
+                            },
+                            {
+                                "x": 1140.0,
+                                "y": 3014.0
+                            }
+                        ]
+                    },
+                    "inferText": "과세물품가액",
+                    "inferConfidence": 0.9999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 2650.0,
+                                "y": 2854.0
+                            },
+                            {
+                                "x": 2739.0,
+                                "y": 2854.0
+                            },
+                            {
+                                "x": 2739.0,
+                                "y": 2968.0
+                            },
+                            {
+                                "x": 2650.0,
+                                "y": 2968.0
+                            }
+                        ]
+                    },
+                    "inferText": "0",
+                    "inferConfidence": 0.9991,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 711.0,
+                                "y": 2996.0
+                            },
+                            {
+                                "x": 854.0,
+                                "y": 2996.0
+                            },
+                            {
+                                "x": 854.0,
+                                "y": 3161.0
+                            },
+                            {
+                                "x": 711.0,
+                                "y": 3161.0
+                            }
+                        ]
+                    },
+                    "inferText": "부",
+                    "inferConfidence": 0.9999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1261.0,
+                                "y": 2986.0
+                            },
+                            {
+                                "x": 1411.0,
+                                "y": 2986.0
+                            },
+                            {
+                                "x": 1411.0,
+                                "y": 3150.0
+                            },
+                            {
+                                "x": 1261.0,
+                                "y": 3150.0
+                            }
+                        ]
+                    },
+                    "inferText": "가",
+                    "inferConfidence": 1.0,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 1746.0,
+                                "y": 2982.0
+                            },
+                            {
+                                "x": 1879.0,
+                                "y": 2982.0
+                            },
+                            {
+                                "x": 1879.0,
+                                "y": 3139.0
+                            },
+                            {
+                                "x": 1746.0,
+                                "y": 3139.0
+                            }
+                        ]
+                    },
+                    "inferText": "세",
+                    "inferConfidence": 0.9999,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 2643.0,
+                                "y": 2996.0
+                            },
+                            {
+                                "x": 2739.0,
+                                "y": 2996.0
+                            },
+                            {
+                                "x": 2739.0,
+                                "y": 3111.0
+                            },
+                            {
+                                "x": 2643.0,
+                                "y": 3111.0
+                            }
+                        ]
+                    },
+                    "inferText": "0",
+                    "inferConfidence": 0.9993,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 2307.0,
+                                "y": 3271.0
+                            },
+                            {
+                                "x": 2754.0,
+                                "y": 3271.0
+                            },
+                            {
+                                "x": 2754.0,
+                                "y": 3532.0
+                            },
+                            {
+                                "x": 2307.0,
+                                "y": 3532.0
+                            }
+                        ]
+                    },
+                    "inferText": "55,000",
+                    "inferConfidence": 0.9724,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 129.0,
+                                "y": 3282.0
+                            },
+                            {
+                                "x": 532.0,
+                                "y": 3282.0
+                            },
+                            {
+                                "x": 532.0,
+                                "y": 3632.0
+                            },
+                            {
+                                "x": 129.0,
+                                "y": 3632.0
+                            }
+                        ]
+                    },
+                    "inferText": "받을",
+                    "inferConfidence": 0.9996,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 543.0,
+                                "y": 3264.0
+                            },
+                            {
+                                "x": 961.0,
+                                "y": 3264.0
+                            },
+                            {
+                                "x": 961.0,
+                                "y": 3939.0
+                            },
+                            {
+                                "x": 543.0,
+                                "y": 3939.0
+                            }
+                        ]
+                    },
+                    "inferText": "국내",
+                    "inferConfidence": 0.3137,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 132.0,
+                                "y": 3575.0
+                            },
+                            {
+                                "x": 536.0,
+                                "y": 3575.0
+                            },
+                            {
+                                "x": 536.0,
+                                "y": 3932.0
+                            },
+                            {
+                                "x": 132.0,
+                                "y": 3932.0
+                            }
+                        ]
+                    },
+                    "inferText": "받은",
+                    "inferConfidence": 0.9893,
+                    "type": "NORMAL",
+                    "lineBreak": false
+                },
+                {
+                    "valueType": "ALL",
+                    "boundingPoly": {
+                        "vertices": [
+                            {
+                                "x": 2304.0,
+                                "y": 3546.0
+                            },
+                            {
+                                "x": 2746.0,
+                                "y": 3546.0
+                            },
+                            {
+                                "x": 2746.0,
+                                "y": 3807.0
+                            },
+                            {
+                                "x": 2304.0,
+                                "y": 3807.0
+                            }
+                        ]
+                    },
+                    "inferText": "55,000",
+                    "inferConfidence": 0.9864,
+                    "type": "NORMAL",
+                    "lineBreak": true
+                }
+            ]
+        }
+    ]
+}
