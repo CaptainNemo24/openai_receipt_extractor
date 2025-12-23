@@ -13,3 +13,4 @@
 7. ☁️ Tableau를 활용한 영수증 지출 내역 시각화
 
    https://public.tableau.com/app/profile/.15366561/viz/openai_receipt_extractor/sheet3
+<img width="564" height="469" alt="image" src="https://github.com/user-attachments/assets/e319b60e-9e9c-4e6b-a308-94f2a827a116" />
